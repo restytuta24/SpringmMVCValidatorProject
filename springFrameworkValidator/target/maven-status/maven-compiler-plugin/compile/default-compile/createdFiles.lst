@@ -1,0 +1,6 @@
+package1\springFrameworkValidator\service\ResidentsServiceImpli.class
+package1\springFrameworkValidator\controller\ResidentsController.class
+package1\springFrameworkValidator\DAO\ResidentsDAO.class
+package1\springFrameworkValidator\service\ResidentsService.class
+package1\springFrameworkValidator\DAO\ResidentsDAOImpli.class
+package1\springFrameworkValidator\model\Residents.class
